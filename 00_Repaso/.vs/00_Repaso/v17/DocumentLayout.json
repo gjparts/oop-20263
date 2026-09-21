@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\00_Repaso\\",
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\00_Repaso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2515579B-84FB-4B79-8C60-B72F79C2F5A4}|00_Repaso\\00_Repaso.csproj|p:\\programas unah\\2026-3\\programacion orientada a objetos\\00_repaso\\00_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2515579B-84FB-4B79-8C60-B72F79C2F5A4}|00_Repaso\\00_Repaso.csproj|c:\\programas unah\\2026-3\\programacion orientada a objetos\\00_repaso\\00_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2515579B-84FB-4B79-8C60-B72F79C2F5A4}|00_Repaso\\00_Repaso.csproj|solutionrelative:00_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\00_Repaso\\00_Repaso\\Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\00_Repaso\\00_Repaso\\Program.cs",
               "RelativeDocumentMoniker": "00_Repaso\\Program.cs",
-              "ToolTip": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\00_Repaso\\00_Repaso\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\00_Repaso\\00_Repaso\\Program.cs",
               "RelativeToolTip": "00_Repaso\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-18T15:22:08.445Z",
               "EditorCaption": ""

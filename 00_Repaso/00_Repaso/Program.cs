@@ -66,6 +66,32 @@ Raw text ignora caracteres especiales \n\t");
             float area = 78.943f; //en JAVA y C# a los float se les pone f
             long numero = 123412341234L; //se recomienda ponerles una L
 
+            //Bloque de excepcion o de caceria de errores
+            try
+            {
+                //Captura de datos
+                int num;
+                Console.Write("Digite un numero entero: ");
+                num = int.Parse(Console.ReadLine());
+
+                Console.Write("Digite un numero con decimales: ");
+                double cifra = double.Parse(Console.ReadLine());
+
+                Console.Write("Digite otro numero con decimales: ");
+                float valor = float.Parse(Console.ReadLine());
+
+                long z;
+                Console.Write("Digite un entero largo: ");
+                z = long.Parse(Console.ReadLine());
+
+                //imprimir valores usando interpolacion
+                Console.WriteLine($"El ultimo valor digitado es {z}");
+            }catch(Exception ex)
+            {
+                Console.WriteLine("Conversion ha fallado");
+                Console.WriteLine(ex.Message);
+            }
+
 
         }
     }
