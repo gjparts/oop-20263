@@ -38,6 +38,16 @@ namespace _01_Metodos
 
             int[] arr1 = { 3, 4, 8, 1, -7, 100, 23 };
             ImprimirArreglo(arr1);
+
+            int[] arr2 = new int[5];
+            llenarArreglo(arr2, 8, 90);
+            ImprimirArreglo(arr2);
+
+            //probar funciones de flecha
+            Console.WriteLine(Restar(5,3));
+            Console.WriteLine(Restar(6.7, 1.1));
+            Console.WriteLine(Restar(5, 3,1));
+            DecirHola();
         }
 
         //metodos (funciones)
@@ -98,5 +108,22 @@ namespace _01_Metodos
 
             Console.ResetColor();
         }
+        /*Metodo que llena un arreglo con numeros al azar entre minimo y maximo*/
+        public static void llenarArreglo(int[] arreglo, int minimo, int maximo)
+        {
+            Random r = new Random();
+            for(int i = 0; i < arreglo.Length; i++)
+            {
+                arreglo[i] = r.Next(minimo, maximo + 1);
+            }
+        }
+
+        //Metodos/funciones de flecha (arrow methods/functions)
+        //se utilizan cuando el metodo solo ejecuta una instruccion
+        public static double Restar(double a, double b) => a - b;
+        public static int Restar(int a, int b) => a - b;
+        public static int Restar(int a, int b, int c) => a - b - c;
+        //tambien se puee usar con void
+        public static void DecirHola() => Console.WriteLine("Hola");
     }
 }
