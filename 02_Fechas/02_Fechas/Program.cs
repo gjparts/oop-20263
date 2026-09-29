@@ -84,6 +84,77 @@
             string str1 = "25/12/2026 21:45:19";
             DateTime f6 = DateTime.Parse(str1);
             Console.WriteLine(f6);
+
+            //Captura de fecha
+            try
+            {
+                Console.Write("Digite una fecha (Año/mes/dia hora:minuto:segundo): ");
+                DateTime f7 = DateTime.Parse( Console.ReadLine() );
+
+                Console.WriteLine($"Fecha ingresada: {f7}");
+
+                //extrar informacion de un DateTime
+                Console.WriteLine($"Año: {f7.Year}");
+                Console.WriteLine($"Mes: {f7.Month}");
+                Console.WriteLine($"Dia: {f7.Day}");
+                Console.WriteLine($"Hora: {f7.Hour}");
+                Console.WriteLine($"Minuto: {f7.Minute}");
+                Console.WriteLine($"Segundo: {f7.Second}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("La fecha ingresada no tiene el formato correcto.");
+            }
+
+            //Operaciones con fechas
+            DateTime f8 = DateTime.Now;
+            Console.WriteLine(f8);
+
+            //Sumar 10 a f8
+            f8 = f8.AddDays(10);
+            Console.WriteLine(f8);
+
+            //Restar 2 dias a f8
+            f8 = f8.AddDays(-2);
+            Console.WriteLine(f8);
+
+            //Sumar 1 año a f8
+            f8 = f8.AddYears(1);
+            Console.WriteLine(f8);
+
+            //Tambien puede desencadenar varios metodos, sumar 2 meses y 3 dias
+            f8 = f8.AddMonths(2).AddDays(3);
+            Console.WriteLine(f8);
+
+            /*Ejercicio: haga un programa que capture una fecha, luego el
+             programa mostrara el primer y ultimo dia del mes para la fecha
+            capturada.
+            Ejemplo:
+            Digite fecha: 2026/9/29
+            Primer Dia del Mes: 1/9/2026
+            Ultimo Dia del Mes: 30/9/2026
+            */
+            try
+            {
+                Console.Write("Digite una fecha: ");
+                DateTime f9 = DateTime.Parse( Console.ReadLine() );
+
+                //forma 1: operando fechas
+                DateTime primerDia = f9.AddDays(-f9.Day + 1);
+                Console.WriteLine($"Primer Dia del Mes: {primerDia}");
+                DateTime ultimoDia = primerDia.AddMonths(1).AddDays(-1);
+                Console.WriteLine($"Primer Dia del Mes: {ultimoDia}");
+
+                //forma 2: aprovechando el constructor y las propiedades del tipo
+                primerDia = new DateTime(f9.Year, f9.Month, 1);
+                ultimoDia = new DateTime(f9.Year, f9.Month, DateTime.DaysInMonth(f9.Year, f9.Month));
+                Console.WriteLine($"Primer Dia del Mes: {primerDia}");
+                Console.WriteLine($"Primer Dia del Mes: {ultimoDia}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Fecha incorrecta");
+            }
         }
     }
 }
