@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\bin\Debug\net9.0\03_Clases.exe
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\bin\Debug\net9.0\03_Clases.deps.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\bin\Debug\net9.0\03_Clases.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\bin\Debug\net9.0\03_Clases.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\bin\Debug\net9.0\03_Clases.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\03_Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\03_Clases.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\03_Clases.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\03_Clases.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\03_Clases.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\03_Clases.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\refint\03_Clases.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\03_Clases.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\03_Clases.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\03_Clases\03_Clases\obj\Debug\net9.0\ref\03_Clases.dll
