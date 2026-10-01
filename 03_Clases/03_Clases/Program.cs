@@ -49,6 +49,26 @@
             Console.WriteLine($"Genero: {m1.Genero}");
             Console.WriteLine($"Hash del objeto: {m1.GetHashCode()}");
             Console.WriteLine($"Ruta del objeto: {m1}");
+
+            Persona per1 = new Persona();
+            //leer los valores de las propiedades de per1
+            Console.WriteLine("Propiedades de per1:");
+            Console.WriteLine($"Nombre: {per1.Nombre}");
+            Console.WriteLine($"Edad: {per1.Edad}");
+            Console.WriteLine($"Genero: {per1.Genero}");
+            Console.WriteLine($"DNI: {per1.DNI}");
+            Console.WriteLine($"Fecha de Nacimiento: {per1.FechaNacimiento}");
+
+            DateTime f1 = new DateTime(1982, 10, 15);
+            Persona per2 = new Persona("Gerardo", 43, 'M', "123456789", f1);
+            //leer los valores de las propiedades de per2
+            Console.WriteLine("Propiedades de per2:");
+            Console.WriteLine($"Nombre: {per2.Nombre}");
+            Console.WriteLine($"Edad: {per2.Edad}");
+            Console.WriteLine($"Genero: {per2.Genero}");
+            Console.WriteLine($"DNI: {per2.DNI}");
+            Console.WriteLine($"Fecha de Nacimiento: {per2.FechaNacimiento}");
+
         }
     }
 }

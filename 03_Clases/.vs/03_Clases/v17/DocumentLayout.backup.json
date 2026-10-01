@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|solutionrelative:03_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|c:\\programas unah\\2026-3\\programacion orientada a objetos\\03_clases\\03_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|solutionrelative:03_clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|c:\\programas unah\\2026-3\\programacion orientada a objetos\\03_clases\\03_clases\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|solutionrelative:03_clases\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "03_Clases\\Persona.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Persona.cs",
+              "RelativeToolTip": "03_Clases\\Persona.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T15:22:35.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Mascota.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Mascota.cs",
               "RelativeDocumentMoniker": "03_Clases\\Mascota.cs",
@@ -34,8 +51,7 @@
               "RelativeToolTip": "03_Clases\\Mascota.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T15:22:20.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T15:22:20.032Z"
             },
             {
               "$type": "Document",
@@ -45,7 +61,7 @@
               "RelativeDocumentMoniker": "03_Clases\\Program.cs",
               "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Program.cs",
               "RelativeToolTip": "03_Clases\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T15:13:15.163Z",
               "EditorCaption": ""
