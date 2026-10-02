@@ -53,5 +53,43 @@ namespace _03_Clases
             this.DNI = dni;
             this.FechaNacimiento = fechaNacimiento;
         }
+        public Persona(string nombre, int edad)
+        {
+            //Constructor con dos parametros
+            this.Nombre = nombre;
+            this.Edad = edad;
+            this.Genero = 'X';
+            this.DNI = "No tiene";
+            this.FechaNacimiento = DateTime.Now;
+        }
+
+        //Metodos: son funciones declaradas dentro de una clase
+        public void Imprimir()
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("*********** Perfil de la Persona ***********");
+            Console.ResetColor();
+            Console.WriteLine($"Nombre: {this.Nombre}");
+            Console.WriteLine($"Edad: {this.Edad}");
+            Console.WriteLine($"Genero: {this.GetGeneroDescripcion()}");
+            Console.WriteLine($"DNI: {this.DNI}");
+            Console.WriteLine($"Fecha de Nacimiento: {this.FechaNacimiento}");
+        }
+        public bool EsMayorEdad()
+        {
+            if (this.Edad >= 18)
+                return true;
+            else
+                return false;
+        }
+        public string GetGeneroDescripcion()
+        {
+            if (this.Genero == 'M') return "Masculino";
+            if (this.Genero == 'F') return "Femenino";
+            if (this.Genero == 'X') return "Otros";
+            //Si llego hasta aqui es porque no se cumplio
+            //ninguno de los if anteriores
+            return "Genero no configurado en el sistema";
+        }
     }
 }
