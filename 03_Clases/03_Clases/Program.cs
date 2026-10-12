@@ -68,6 +68,24 @@
             Console.WriteLine($"per2 es mayor de edad? {per2.EsMayorEdad()}");
             if( per3.EsMayorEdad() == true )
                 Console.WriteLine("per3 tiene el 25% de descuento");
+
+            Carro car1 = new Carro();
+            car1.Imprimir();
+
+            Carro car2 = new Carro("Toyota", "Rav4", "Blanco", 2018);
+            car2.Imprimir();
+
+            try
+            {
+                Empleado emp1 = new Empleado("Paul Stanley", 74, 'M', 100000, 'P');
+                //emp1.Salario = -8000;
+                emp1.Imprimir();
+            }catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+
+            
         }
     }
 }
