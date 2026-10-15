@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|c:\\programas unah\\2026-3\\programacion orientada a objetos\\03_clases\\03_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|solutionrelative:03_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|c:\\programas unah\\2026-3\\programacion orientada a objetos\\03_clases\\03_clases\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|solutionrelative:03_clases\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|solutionrelative:03_clases\\enum\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|c:\\programas unah\\2026-3\\programacion orientada a objetos\\03_clases\\03_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|solutionrelative:03_clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|c:\\programas unah\\2026-3\\programacion orientada a objetos\\03_clases\\03_clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD076987-5448-4568-A102-EF4A41225456}|03_Clases\\03_Clases.csproj|solutionrelative:03_clases\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TipoInstructor.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Enum\\TipoInstructor.cs",
               "RelativeDocumentMoniker": "03_Clases\\Enum\\TipoInstructor.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "03_Clases\\Enum\\TipoInstructor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:45:02.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:45:02.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TipoContrato.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Enum\\TipoContrato.cs",
               "RelativeDocumentMoniker": "03_Clases\\Enum\\TipoContrato.cs",
@@ -63,12 +62,11 @@
               "RelativeToolTip": "03_Clases\\Enum\\TipoContrato.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:42:50.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:42:50.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Enum\\Genero.cs",
               "RelativeDocumentMoniker": "03_Clases\\Enum\\Genero.cs",
@@ -76,31 +74,30 @@
               "RelativeToolTip": "03_Clases\\Enum\\Genero.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:36:26.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:36:26.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Instructor.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Instructor.cs",
               "RelativeDocumentMoniker": "03_Clases\\Instructor.cs",
               "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Instructor.cs",
               "RelativeToolTip": "03_Clases\\Instructor.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwDAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwCsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T15:31:14.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Program.cs",
               "RelativeDocumentMoniker": "03_Clases\\Program.cs",
               "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\03_Clases\\03_Clases\\Program.cs",
               "RelativeToolTip": "03_Clases\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAgwGAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwGkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T15:24:27.844Z",
               "EditorCaption": ""
@@ -115,8 +112,7 @@
               "RelativeToolTip": "03_Clases\\Estudiante.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAYwHcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T15:06:35.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T15:06:35.372Z"
             }
           ]
         }

@@ -95,6 +95,21 @@
             {
                 Console.WriteLine(ex.Message);
             }
+
+            try
+            {
+                Instructor ins1 = new Instructor("Gerardo", 44, Enum.Genero.Masculino,
+                    Enum.TipoContrato.Temporal, Enum.TipoInstructor.General);
+                ins1.Imprimir();
+
+                Instructor ins2 = new Instructor("Pedro Picapiedra", 48, Enum.Genero.Masculino);
+                ins2.Imprimir();
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }
