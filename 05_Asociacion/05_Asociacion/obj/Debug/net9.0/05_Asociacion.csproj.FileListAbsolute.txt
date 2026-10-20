@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\bin\Debug\net9.0\05_Asociacion.exe
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\bin\Debug\net9.0\05_Asociacion.deps.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\bin\Debug\net9.0\05_Asociacion.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\bin\Debug\net9.0\05_Asociacion.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\bin\Debug\net9.0\05_Asociacion.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\05_Asociacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\05_Asociacion.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\05_Asociacion.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\05_Asociacion.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\05_Asociacion.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\05_Asociacion.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\refint\05_Asociacion.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\05_Asociacion.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\05_Asociacion.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\05_Asociacion\05_Asociacion\obj\Debug\net9.0\ref\05_Asociacion.dll
