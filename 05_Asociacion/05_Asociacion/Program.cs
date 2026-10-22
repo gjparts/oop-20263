@@ -39,6 +39,28 @@
                 /*tigo y claro se usan mas de una vez en los Chip; en cambio AT&T
                  solo se ocupo para crear sim5 por eso no le puse variable.*/
 
+                SmartPhone cel1 = new SmartPhone(samsung, "S24", Enum.Capacidad.c512GB,
+                    Enum.Capacidad.c8GB, bat2, sim1, null);
+                cel1.Imprimir();
+                //Observe que cel1 no tiene Chip2 (null)
+
+                SmartPhone cel2 = new SmartPhone(lg, "Velvet", Enum.Capacidad.c256GB,
+                    Enum.Capacidad.c6GB, bat5, sim4, sim2);
+                cel2.Imprimir();
+
+                SmartPhone cel3 = new SmartPhone(new Fabricante("Apple", "USA", "Tim Cook"),
+                    "IPhone 18 Pro Max", Enum.Capacidad.c512GB,Enum.Capacidad.c16GB,bat4,sim4,null);
+                cel3.Imprimir();
+
+                /*Tambien se puede crear un Objeto Volatil, el cual se utiliza
+                 en situaciones donde solo necesitamos ejecutar uno de sus Metodos
+                para luego dejar de usarlo.*/
+                new SmartPhone(samsung,"Galaxy Z Fold8",Enum.Capacidad.c512GB,
+                    Enum.Capacidad.c8GB,bat1,sim5,sim1).Imprimir();
+                //El objeto anterior Nace, luego ejecuta Imprimir() para
+                //despues ser destruido por el Recolector de Basura (Garbace Collector)
+                //Un objeto volatil NO es asignado a una variable para que
+                //no consuma memoria RAM luego de haberlo utilizado.
             }
             catch (Exception ex)
             {
