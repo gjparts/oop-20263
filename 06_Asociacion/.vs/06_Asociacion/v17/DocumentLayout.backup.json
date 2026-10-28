@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\06_Asociacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42CC4BC1-EF4B-49C5-9ED8-60F4146E883A}|06_Asociacion\\06_Asociacion.csproj|c:\\programas unah\\2026-3\\programacion orientada a objetos\\06_asociacion\\06_asociacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42CC4BC1-EF4B-49C5-9ED8-60F4146E883A}|06_Asociacion\\06_Asociacion.csproj|solutionrelative:06_asociacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\06_Asociacion\\06_Asociacion\\Program.cs",
+              "RelativeDocumentMoniker": "06_Asociacion\\Program.cs",
+              "ToolTip": "C:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\06_Asociacion\\06_Asociacion\\Program.cs",
+              "RelativeToolTip": "06_Asociacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T15:24:20.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
