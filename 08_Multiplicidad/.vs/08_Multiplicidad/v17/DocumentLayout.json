@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\08_Multiplicidad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936507F6-F8EF-463B-834D-50910FB4F2C1}|08_Asociacion\\08_Multiplicidad.csproj|p:\\programas unah\\2026-3\\programacion orientada a objetos\\08_multiplicidad\\08_asociacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936507F6-F8EF-463B-834D-50910FB4F2C1}|08_Asociacion\\08_Multiplicidad.csproj|solutionrelative:08_asociacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936507F6-F8EF-463B-834D-50910FB4F2C1}|08_Asociacion\\08_Multiplicidad.csproj|p:\\programas unah\\2026-3\\programacion orientada a objetos\\08_multiplicidad\\08_asociacion\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936507F6-F8EF-463B-834D-50910FB4F2C1}|08_Asociacion\\08_Multiplicidad.csproj|solutionrelative:08_asociacion\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936507F6-F8EF-463B-834D-50910FB4F2C1}|08_Asociacion\\08_Multiplicidad.csproj|p:\\programas unah\\2026-3\\programacion orientada a objetos\\08_multiplicidad\\08_asociacion\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936507F6-F8EF-463B-834D-50910FB4F2C1}|08_Asociacion\\08_Multiplicidad.csproj|solutionrelative:08_asociacion\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\08_Multiplicidad\\08_Asociacion\\Program.cs",
+              "RelativeDocumentMoniker": "08_Asociacion\\Program.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\08_Multiplicidad\\08_Asociacion\\Program.cs",
+              "RelativeToolTip": "08_Asociacion\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:49:52.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\08_Multiplicidad\\08_Asociacion\\Factura.cs",
+              "RelativeDocumentMoniker": "08_Asociacion\\Factura.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\08_Multiplicidad\\08_Asociacion\\Factura.cs",
+              "RelativeToolTip": "08_Asociacion\\Factura.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:24:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\08_Multiplicidad\\08_Asociacion\\Cliente.cs",
+              "RelativeDocumentMoniker": "08_Asociacion\\Cliente.cs",
+              "ToolTip": "P:\\Programas UNAH\\2026-3\\Programacion Orientada a Objetos\\08_Multiplicidad\\08_Asociacion\\Cliente.cs",
+              "RelativeToolTip": "08_Asociacion\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T15:22:38.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
