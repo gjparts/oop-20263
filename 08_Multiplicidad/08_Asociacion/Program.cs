@@ -28,12 +28,13 @@ namespace _08_Multiplicidad
             Factura f2 = new Factura(2, new DateTime(2026, 10, 31), null, coleccion2);
             f2.Imprimir();
 
-            Factura f3 = new Factura(3, DateTime.Now, new Cliente("Mario", "777", "", ""), p4);
-            f3.Producto2 = p1;
+            Producto[] coleccion3 = { p4, p1, p5, p5, p5, p5, p5, p5, p5, p5, p5 };
+            Factura f3 = new Factura(3, DateTime.Now, new Cliente("Mario", "777", "", ""), coleccion3);
             f3.Imprimir();
 
             //Objeto volatil
-            new Factura(4, DateTime.Now, null, p2).Imprimir();
+            Producto[] coleccion4 = { p2, p1, p1, p1, p4, p3, p3, p2, p1, p2, p2, p2 };
+            new Factura(4, DateTime.Now, null, coleccion4).Imprimir();
         }
     }
 }
