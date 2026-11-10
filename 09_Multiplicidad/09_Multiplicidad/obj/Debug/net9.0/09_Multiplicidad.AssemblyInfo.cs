@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09_Multiplicidad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1750cd4a950e070876fd8192d31dafa353fd58ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d925389a6f4151820d85482a5f29bd3b56b5ff88")]
 [assembly: System.Reflection.AssemblyProductAttribute("09_Multiplicidad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09_Multiplicidad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
