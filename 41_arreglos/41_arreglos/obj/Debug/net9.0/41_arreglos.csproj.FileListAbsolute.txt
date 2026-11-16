@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\bin\Debug\net9.0\41_arreglos.exe
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\bin\Debug\net9.0\41_arreglos.deps.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\bin\Debug\net9.0\41_arreglos.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\bin\Debug\net9.0\41_arreglos.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\bin\Debug\net9.0\41_arreglos.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\41_arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\41_arreglos.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\41_arreglos.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\41_arreglos.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\41_arreglos.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\41_arreglos.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\refint\41_arreglos.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\41_arreglos.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\41_arreglos.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\41_arreglos\41_arreglos\obj\Debug\net9.0\ref\41_arreglos.dll
