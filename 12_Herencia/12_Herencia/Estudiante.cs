@@ -29,6 +29,10 @@ namespace _12_Herencia
         un constructor con tres parametros: nombre, edad, genero.*/
 
         //Metodos
-
+        public void Estudiar()
+        {
+            Console.WriteLine($"Soy estudiante de la carrera {this.Carrera}");
+            Console.WriteLine($"Mi edad es {this.Edad}");
+        }
     }
 }
