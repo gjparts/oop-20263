@@ -40,6 +40,30 @@
             Console.WriteLine($"Salario: {em2.Salario}");
             em2.Saludar();
             em2.Trabajar();
+
+            Practicante pr1 = new Practicante(2);
+            pr1.Nombre = "Estevancito Maravilla";
+            pr1.Edad = 77;
+
+            Console.WriteLine("Datos de pr1 ***********************");
+            Console.WriteLine($"Nombre: {pr1.Nombre}");
+            Console.WriteLine($"Edad: {pr1.Edad}");
+            Console.WriteLine($"Genero: {pr1.Genero}");
+            Console.WriteLine($"Cargo: {pr1.Cargo}");
+            Console.WriteLine($"Salario: {pr1.Salario}");
+            Console.WriteLine($"Meses de practica: {pr1.Meses}");
+            pr1.Saludar();
+            pr1.Trabajar();
+
+            Catedratico c1 = new Catedratico("Gerardo", 44, Enum.Genero.Masculino,
+                15000, "Docente por hora", "Ing. En Computación");
+            Console.WriteLine("Datos de c1 ***********************");
+            Console.WriteLine($"Nombre: {c1.Nombre}");
+            Console.WriteLine($"Edad: {c1.Edad}");
+            Console.WriteLine($"Genero: {c1.Genero}");
+            Console.WriteLine($"Cargo: {c1.Cargo}");
+            Console.WriteLine($"Salario: {c1.Salario}");
+            Console.WriteLine($"Profesion: {c1.Profesion}");
         }
     }
 }

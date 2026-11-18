@@ -9,7 +9,8 @@ namespace _12_Herencia
 {
     public class Empleado : Persona
     {
-        //Propiedades        public float Salario {  get; set; }
+        //Propiedades
+        public float Salario {  get; set; }
         public string Cargo { get; set; }
 
         //Constructor
