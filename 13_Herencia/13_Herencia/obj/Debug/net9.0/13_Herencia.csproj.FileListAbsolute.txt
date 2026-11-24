@@ -1,0 +1,15 @@
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\bin\Debug\net9.0\13_Herencia.exe
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\bin\Debug\net9.0\13_Herencia.deps.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\bin\Debug\net9.0\13_Herencia.runtimeconfig.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\bin\Debug\net9.0\13_Herencia.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\bin\Debug\net9.0\13_Herencia.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\13_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\13_Herencia.AssemblyInfoInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\13_Herencia.AssemblyInfo.cs
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\13_Herencia.csproj.CoreCompileInputs.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\13_Herencia.sourcelink.json
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\13_Herencia.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\refint\13_Herencia.dll
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\13_Herencia.pdb
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\13_Herencia.genruntimeconfig.cache
+C:\Programas UNAH\2026-3\Programacion Orientada a Objetos\13_Herencia\13_Herencia\obj\Debug\net9.0\ref\13_Herencia.dll
